@@ -9,7 +9,7 @@ These are two webpages that list random songs from the 80's and 90's. I don't ne
 - [Walking in LA](http://www.cuccurullo.tv/mp/mpl-index.html)
 - Hungry like the Wolf
 - Hot for teacher
-- Karma chameleon
+- Karma Chameleon
 - Thriller
 ![Culture Club](http://upload.wikimedia.org/wikipedia/sr/8/81/Culture_Club.jpg)
 ### 90's
